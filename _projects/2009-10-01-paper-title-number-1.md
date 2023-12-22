@@ -1,5 +1,5 @@
 ---
-title: "project 1"
+title: "Project 1"
 collection: portfolio
 description: a project with a background image
 permalink: /project/2009-10-01-paper-title-number-1
