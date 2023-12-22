@@ -1,3 +1,8 @@
+**Still under construction! Apologies for the dust.**
+
+
+   
+
 ---
 permalink: /
 title: "About my research"
@@ -7,6 +12,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+
+
+
+
 
 My main research interests are focus on spatial hearing in CI users, using objective and subjective measures, as well as computational modelling. 
 I received my Ph.D. degree in Information and Signal Processing in Southeast University. My Ph.D. research project was on Spatial Auditory Localization and Virtual Sound Environment Simulation.  
