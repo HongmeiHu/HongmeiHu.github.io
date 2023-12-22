@@ -1,10 +1,9 @@
 ---
 title: "project 1"
-collection: publications
+collection: portfolio
 description: a project with a background image
-img: /images/hongmeihu.jpg
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: "Short description of the project number 1<br/><img src='/images/500x300.png'>"
 date: 2009-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
