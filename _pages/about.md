@@ -1,6 +1,3 @@
-**Still under construction! Apologies for the dust.**
-
-
    
 
 ---
@@ -12,10 +9,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-
-
-
 
 
 My main research interests are focus on spatial hearing in CI users, using objective and subjective measures, as well as computational modelling. 
