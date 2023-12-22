@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!---{% include base_path %} --->
 
 <!---<embed src="https://hongmeihu.github.io/files/Hu_CV_2023.pdf" type="application/pdf" width="600px" height="500px" />  --->
 
@@ -31,7 +31,7 @@ Work experience
 * 2008-2009 Lecturer  
   * Jiangsu University
   
-* 2004-2008 Ph.D. researcher  
+* 2004-2008 Ph.D. Researcher  
   * Southeast University
   
 * 2000-2004 Teaching Assistant   
