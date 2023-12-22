@@ -7,9 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<!---{% include base_path %} --->
-
-<embed src="https://hongmeihu.github.io/files/Hu_CV_2023.pdf" type="application/pdf" width="600px" height="500px" /> 
+{% include base_path %} 
 
 Education
 ======
@@ -51,6 +49,8 @@ Skills
   * Chinese (Native)  
   * English (Fluent)
   * SGerman (Basic,B1-B2)
-  
 
-<!---<embed src="{{ site.baseurl }}/files/Hu_CV_2023.pdf" width="600" height="700" type='application/pdf'>--->
+More
+====== 
+* CV in pdf could be download [here](https://hongmeihu.github.io/files/Hu_CV_2023.pdf)
+<embed src="https://hongmeihu.github.io/files/Hu_CV_2023.pdf" type="application/pdf" width="600px" height="500px" /> 
