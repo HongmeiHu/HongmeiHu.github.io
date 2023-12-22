@@ -1,6 +1,6 @@
 ---
 title: "Project 2"
-collection: portfolio
+collection: project
 description: a project with a background image
 permalink: /project/2010-10-01-paper-title-number-2
 excerpt: Short description of the project number
