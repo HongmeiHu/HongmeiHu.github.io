@@ -35,21 +35,6 @@ Work experience
 * 2000-2004 Teaching Assistant   
   * Jiangsu University
   
-
-  
-Skills
-======
-* Programming
-  * Matlab
-  * Python
-  * SPSS
-  * AutoCAD
- 
-* Languages
-  * Chinese (Native)  
-  * English (Fluent)
-  * SGerman (Basic,B1-B2)
-
 More
 ====== 
 * CV in pdf could be download [here](https://hongmeihu.github.io/files/Hu_CV_2023.pdf)
