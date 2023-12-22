@@ -1,3 +1,4 @@
+~~~
 ---
 layout: archive
 title: "CV"
@@ -6,7 +7,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+~~~
 <!---{% include base_path %} --->
 
 <embed src="https://hongmeihu.github.io/files/Hu_CV_2023.pdf" type="application/pdf" width="600px" height="500px" /> 
