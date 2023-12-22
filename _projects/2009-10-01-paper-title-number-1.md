@@ -2,8 +2,8 @@
 title: "project 1"
 collection: portfolio
 description: a project with a background image
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: "Short description of the project number 1<br/><img src='/images/500x300.png'>"
+permalink: /project/2009-10-01-paper-title-number-1
+excerpt: Short description of the project number
 date: 2009-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
