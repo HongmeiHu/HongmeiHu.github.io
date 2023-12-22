@@ -12,3 +12,14 @@ My main research interests are focus on spatial hearing in CI users, using objec
 I received my Ph.D. degree in Information and Signal Processing in Southeast University. My Ph.D. research project was on Spatial Auditory Localization and Virtual Sound Environment Simulation.  
 Between 2010 and 2012, I have held the position of Marie Curie Experienced Research Fellow at Southampton University. My main research topics were sensorineural healing loss simulation (HLS) and speech enhancement for cochlear implants (CIs).
 Since 2013 I have worked with a focus on CIs in several projects at the University of Oldenburg. During this time, I have developed an interaural electrode pairing research platform for bilateral CI users, including both psychoacoustic and EEG measures with direct CI stimulation. Later, I investigated CI artifact rejection to measure high rate electrically evoked auditory steady state responses (eASSRs) in CI users. In the past five years, I further extended these techniques to measuring subcortical and multiple cortical responses simultaneously in one EEG recording session. Towards more ecologically valid measures, I investigated bilateral speech perception in bilateral CI users using room acoustics simulation. In the last two years, during the pandemic, I developed a model framework for simulating spatial hearing of bilateral CI users.
+
+
+<nbsp>
+
+{% include base_path %}
+
+{% assign ordered_pages = site.research | sort:"order_number" %}
+
+{% for post in ordered_pages %}
+  {% include archive-single.html type="grid" %}
+{% endfor %}
