@@ -38,7 +38,7 @@ This framework bundles tools for acoustic and auditory modelling as well as eval
 
 # Other resources
 
-We also developed some speech test materials. For example, the Mandarin Chinese matrix sentence test [CMNmatrix](https://doi.org/10.1080/14992027.2018.1483083) and the Cantonese matrix sentence test [YUEmaxtrix](https://doi.org/10.1080/14992027.2022.2142683). 
+We also developed some speech test materials. For example, the Mandarin Chinese matrix sentence test [CMNmatrix](https://doi.org/10.1080/14992027.2018.1483083) and the Cantonese matrix sentence test [YUEmaxtrix](https://doi.org/10.1080/14992027.2022.2142683). They are available at [Hörzentrum Oldenburg](https://www.hz-ol.de/en/home.html).
 
 In addition to the official [CMNmatrix](https://doi.org/10.1080/14992027.2018.1483083), we also recorded the Mandarin matrix sentence test with different speakers for both Lombard and plain speech. The recordings were free [available on](https://zenodo.org/records/7063030).
 
