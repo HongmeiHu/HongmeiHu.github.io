@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Research interests
+
 My main research interests are focus on spatial hearing in CI users, using objective and subjective measures, as well as computational modelling. 
 I received my Ph.D. degree in Information and Signal Processing in Southeast University. My Ph.D. research project was on Spatial Auditory Localization and Virtual Sound Environment Simulation.  
 Between 2010 and 2012, I have held the position of Marie Curie Experienced Research Fellow at Southampton University. My main research topics were sensorineural healing loss simulation (HLS) and speech enhancement for cochlear implants (CIs).
@@ -17,9 +17,6 @@ Since 2013 I have worked with a focus on CIs in several projects at the Universi
 # Links
 
 [Medizinische Physik, Carl von Ossietzky University of Oldenburg, Germany](https://uol.de/mediphysik)
-
 [SOUND Laboratory, Cambridge University, UK](https://www-neurosciences.medschl.cam.ac.uk/sound-lab/)
-
 [ISVR, Southampton University, UK](https://www.southampton.ac.uk/research/institutes-centres/institute-of-sound-vibration-research)
-
-[INSTITUT FÜR TECHNISCHE UND ANGEWANDTE PHYSIK GMBH](https://www.itap.de/)
+[Institut für Technische und Angewandte Phzsik GMBH, Germanz](https://www.itap.de/)
