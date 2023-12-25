@@ -8,7 +8,7 @@ header:
 As one of ......
 
 # Cochlear implant (CI) Models
-![](/images/software/aacus230034.tif)
+![](/images/software/aacus230034.png)
 I am a developer of [a single channel bilateral CI simulation model](https://zenodo.org/records/5571858) and  [an opensource framework for simulating the spatial hearing of bilateral CI users](https://zenodo.org/records/7471961). You can view the articles on [article 1](https://doi.org/10.1007/s10162-021-00823-1) and [article 2](https://doi.org/10.1051/aacus/2023036).
 
 
