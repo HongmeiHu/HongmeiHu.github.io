@@ -18,9 +18,11 @@ Since 2013 I have worked with a focus on CIs in several projects at the Universi
 
 # Links
 
-[Medizinische Physik, Carl von Ossietzky University of Oldenburg, Germany](https://uol.de/mediphysik) ![](/images/research/OldenburgUni.png)
+[Medizinische Physik, Carl von Ossietzky University of Oldenburg, Germany](https://uol.de/mediphysik)<img src="/images/research/OldenburgUni.png" width="150" height="280">
 
-[SOUND Laboratory, Cambridge University, UK](https://www-neurosciences.medschl.cam.ac.uk/sound-lab/) ![](/images/research/CambridgeUni.png) ![](/images/research/soundlab.png)
+~~~![](/images/research/OldenburgUni.png)~~~
+
+[SOUND Laboratory, Cambridge University, UK](https://www-neurosciences.medschl.cam.ac.uk/sound-lab/) ![](/images/research/CambridgeUni.png) ![](/images/research/soundlab.jpg)
 
 
 [ISVR, Southampton University, UK](https://www.southampton.ac.uk/research/institutes-centres/institute-of-sound-vibration-research) ![](/images/research/southamptonUni.png)
