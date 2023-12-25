@@ -18,8 +18,9 @@ You can find the corresponding publications on [Hu et al. 2022](https://doi.org/
 
 # AFC- Psychophysical measurement and modelling tools (MATLAB)
 
-![](/images/software/afc_logo.gif)
+<!-- ![](/images/software/afc_logo.gif)  -->
 ![](/images/software/afc.gif) 
+
 The current research version of the psychophysical-measurement and modelling package AFC is available on [www.aforcedchoice.com](https://medi.uni-oldenburg.de/afc/). 
 
 
