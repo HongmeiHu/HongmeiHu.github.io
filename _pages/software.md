@@ -12,7 +12,7 @@ header:
 ![](/images/software/aacus230034.gif)
 You can download our [single channel bilateral CI simulation model](https://zenodo.org/records/5571858) and [opensource framework for simulating the spatial hearing of bilateral CI users](https://zenodo.org/records/7471961). 
 
-You can find the corresponding publications on [article 1](https://doi.org/10.1007/s10162-021-00823-1) and [article 2](https://doi.org/10.1051/aacus/2023036).
+You can find the corresponding publications on [Hu et al., 2022](https://doi.org/10.1007/s10162-021-00823-1) and [Hu et al., 2023](https://doi.org/10.1051/aacus/2023036).
 
 
 
