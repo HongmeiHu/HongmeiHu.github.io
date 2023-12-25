@@ -24,8 +24,8 @@ Since 2013 I have worked with a focus on CIs in several projects at the Universi
 
 [SOUND Laboratory, Cambridge University, UK](https://www-neurosciences.medschl.cam.ac.uk/sound-lab/) <img src="/images/research/soundlab.jpg" width="120" height="180">   <img src="/images/research/CambridgeUni.png" width="100" height="160"> 
 
+[Institut für Technische und Angewandte Phzsik GMBH, Germany](https://www.itap.de/)  <img src="/images/research/itap.png" width="60" height="120"> 
 
 [ISVR, Southampton University, UK](https://www.southampton.ac.uk/research/institutes-centres/institute-of-sound-vibration-research)   <img src="/images/research/southamptonUni.png" width="180" height="300"> 
 
-
-[Institut für Technische und Angewandte Phzsik GMBH, Germany](https://www.itap.de/)  <img src="/images/research/itap.png" width="60" height="120"> 
+[School of Information Science and Engineering, Southeast University, China](https://radio.seu.edu.cn/newenglish/21515/list.htm)   <img src="/images/research/southeastUni.png" width="180" height="300"> 
