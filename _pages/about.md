@@ -21,10 +21,10 @@ Since 2013 I have worked with a focus on CIs in several projects at the Universi
 [Medizinische Physik, Carl von Ossietzky University of Oldenburg, Germany](https://uol.de/mediphysik)<img src="/images/research/OldenburgUni.png" width="80" height="140">
 
 
-[SOUND Laboratory, Cambridge University, UK](https://www-neurosciences.medschl.cam.ac.uk/sound-lab/) <img src="/images/research/soundlab.jpg" width="80" height="140"> ![](/images/research/CambridgeUni.png) 
+[SOUND Laboratory, Cambridge University, UK](https://www-neurosciences.medschl.cam.ac.uk/sound-lab/) <img src="/images/research/soundlab.jpg" width="80" height="140">   <img src="/images/research/CambridgeUni.png" width="80" height="140"> ![](/images/research/CambridgeUni.png) 
 
 
-[ISVR, Southampton University, UK](https://www.southampton.ac.uk/research/institutes-centres/institute-of-sound-vibration-research) ![](/images/research/southamptonUni.png)
+[ISVR, Southampton University, UK](https://www.southampton.ac.uk/research/institutes-centres/institute-of-sound-vibration-research) ![](/images/research/southamptonUni.png)  <img src="/images/research/southamptonUni.png" width="80" height="140"> 
 
 
-[Institut für Technische und Angewandte Phzsik GMBH, Germany](https://www.itap.de/) ![](/images/research/itap.png)
+[Institut für Technische und Angewandte Phzsik GMBH, Germany](https://www.itap.de/) ![](/images/research/itap.png)  <img src="/images/research/itap.png" width="80" height="140"> 
