@@ -28,4 +28,4 @@ Since 2013 I have worked with a focus on CIs in several projects at the Universi
 
 [ISVR, Southampton University, UK](https://www.southampton.ac.uk/research/institutes-centres/institute-of-sound-vibration-research)   <img src="/images/research/southamptonUni.png" width="180" height="300"> 
 
-[School of Information Science and Engineering, Southeast University, China](https://radio.seu.edu.cn/newenglish/21515/list.htm)   <img src="/images/research/southeastUni.png" width="180" height="300"> 
+[School of Information Science and Engineering, Southeast University, China](https://radio.seu.edu.cn/newenglish/21515/list.htm)   <img src="/images/research/southeastUni.png" width="80" height="140"> 
