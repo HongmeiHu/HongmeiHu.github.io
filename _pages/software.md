@@ -16,23 +16,23 @@ You can find the corresponding publications on [article 1](https://doi.org/10.10
 
 
 
-# AFC--Psychophysical measurement and modelling tools (MATLAB) ![](/images/software/afc.jpg).
+# AFC--Psychophysical measurement and modelling tools (MATLAB)
 
 ![](/images/software/afc_logo.gif)
-The current research version of the psychophysical-measurement and modelling package AFC is available on [www.aforcedchoice.com](https://medi.uni-oldenburg.de/afc/) 
+![](/images/software/afc.jpg) The current research version of the psychophysical-measurement and modelling package AFC is available on [www.aforcedchoice.com](https://medi.uni-oldenburg.de/afc/). 
 
 
-# Room acoustics simulation and auralization tools ![](/images/software/razr.jpg)
+# Room acoustics simulation and auralization tools 
 
-RAZR - Perceptually plausible room acoustics simulation
+![](/images/software/Razr.jpg) RAZR - Perceptually plausible room acoustics simulation
 
 The current research version of the room acoustics simulator RAZR is available on [www.razrengine.com](https://medi.uni-oldenburg.de/razr/).
 
-# Other tools for acoustic and auditory modelling ![](/images/software/faame.jpg)
+# Other tools for acoustic and auditory modelling ![]
 
 FAAME - Framework for Acoustic and Auditory Models and Evaluation
 
-This framework bundles tools for acoustic and auditory modelling as well as evaluation. The FAAME is available on [www.faame4u.com](https://medi.uni-oldenburg.de/faame/).
+(/images/software/faame.jpg) This framework bundles tools for acoustic and auditory modelling as well as evaluation. The FAAME is available on [www.faame4u.com](https://medi.uni-oldenburg.de/faame/).
 
 
 
